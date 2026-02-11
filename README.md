@@ -2,4 +2,4 @@
 # WebApps-S26-Assignment-4
 A practice assignment for HTML with CSS
 
-hosted at: https://hbindel26.github.io/webbapps-s26-assignment4-hbindel26/opera.html
+hosted at: 
