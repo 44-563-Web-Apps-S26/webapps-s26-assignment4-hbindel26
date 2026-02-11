@@ -61,3 +61,11 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
     background-color: #ffffff;
 }
+.name:hover{
+    text-shadow: 2px 2px 8px #ff4500;
+
+    border: 2px dashed #333;
+
+    padding: 2px;
+    cursor: pointer;
+}
